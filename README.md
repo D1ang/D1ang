@@ -7,7 +7,6 @@ I’m a Fullstack developer with a focus on Python and a senior Backend develope
 - 📱  I’m currently working on IBS Graphics.
 - 🤓 I’m currently learning more JavaScript.
 - 💬  Ask me about Python, Django and databases.
-- 📫  How to reach me: NOT SET UP YET
 - 😄  Pronouns: he/his
 - 🚴🏽‍♀️  Fun fact: I love snowboarding and I'm a geek for domotica.
 
