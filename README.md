@@ -35,4 +35,4 @@ I’m a Fullstack developer with a focus on Python and a senior Backend develope
 :handshake: [LinkedIn](https://www.linkedin.com/in/django-heimgartner/)<br>
 :dove: [Twitter](https://twitter.com/https://twitter.com/Hey_Djang)
 
-<img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Daph1986&show_icons=true&hide_border=true" />
+<img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=D1ang&show_icons=true&hide_border=true" />
