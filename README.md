@@ -2,7 +2,7 @@
 
 ### Hi, my name is Django 👋
 
-I’m a Fullstack developer with a focus on Python and a senior Backend developer (in the past on FileMaker). I'm the creator of [Soccersystems](soccersystems.nl), a B2B webapp that allows one of the biggest soccer teams located in Amsterdam (Ajax) to order their squadnumbers. I'm an alumni from Code Institute and work at IBS Graphics as a developer and company manager.
+I’m a Fullstack developer with a focus on Python and a senior Backend developer (in the past on FileMaker). I'm the creator of [Soccersystems](http://www.soccersystems.nl), a B2B webapp that allows one of the biggest soccer teams located in Amsterdam (Ajax) to order their squadnumbers. I'm an alumni from Code Institute and work at IBS Graphics as a developer and company manager.
 
 - 📱  I’m currently working on IBS Graphics.
 - 🤓 I’m currently learning more JavaScript.
