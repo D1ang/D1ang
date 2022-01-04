@@ -2,9 +2,9 @@
 
 ### Hi, my name is Django 👋
 
-I’m a Fullstack developer with a focus on Python and a medior Backend developer (in the past on FileMaker). The creator of [Soccersystems](http://www.soccersystems.nl), a B2B webapp that allows one of the biggest soccer teams located in Amsterdam (Ajax) to order their squadnumbers. I'm an alumni from Code Institute and work (since 2021) at [Alteza](http://www.alteza.nl) as a webdeveloper and python medior.
+I’m a Full Stack developer with a focus on Python and a medior Backend developer (in the past on FileMaker). The creator of [Soccersystems](http://soccersystems.nl/), a B2B webapp that allows one of the biggest soccer teams located in Amsterdam (Ajax) to order their squadnumbers. I'm an alumni from Code Institute and work (since 2021) at [Alteza](http://www.alteza.nl) as a webdeveloper and python medior.
 
-- 📱  I’m currently working on Alteza.
+- 📱  I’m currently working on Delta.
 - 🤓 I’m currently learning more JavaScript.
 - 💬  Ask me about Python, Django and databases.
 - 😄  Pronouns: he/his
