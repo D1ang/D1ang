@@ -2,13 +2,12 @@
 
 ### Hi, my name is Django 👋
 
-I’m a Full Stack developer with a focus on Python and a medior Backend developer (in the past on FileMaker). The creator of [Soccersystems](http://soccersystems.nl/), a B2B webapp that allows one of the biggest soccer teams located in Amsterdam (Ajax) to order their squadnumbers. I'm an alumni from Code Institute and work (since 2021) at [Alteza](http://www.alteza.nl) as a webdeveloper and python medior.
+I’m a Full Stack developer with a focus on Python and Javascript. In the past I was a medior FileMaker developer and created a scale of business apps for a Silkscreen based production company. As an alumnus from Code Institute and a 17 years career I switched to be a full time developer (since 2021)
 
-- 📱  I’m currently working on Delta.
+- 📱 I’m currently working as a Frontend developer.
 - 🤓 I’m currently learning more JavaScript.
-- 💬  Ask me about Python, Django and databases.
-- 😄  Pronouns: he/his
-- 🚴🏽‍♀️  Fun fact: I love snowboarding and I'm a geek for domotica.
+- 💬 Ask me about JS, Python, Django, databases and domotica.
+- 🚴🏽‍♀️ Fun fact: I love snowboarding and I'm a geek for domotica.
 
 ### :gear: Technologies which I'm familiar with:
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
