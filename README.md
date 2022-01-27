@@ -4,10 +4,10 @@
 
 I’m a Full Stack developer with a focus on Python and Javascript. In the past I was a medior FileMaker developer and created a scale of business apps for a Silkscreen based production company. As an alumnus from Code Institute and a 17 years career I switched to be a full time developer (since 2021)
 
-- 📱 I’m currently working as a Frontend developer.
-- 🤓 I’m currently learning more JavaScript.
-- 💬 Ask me about JS, Python, Django, databases and domotica.
-- 🚴🏽‍♀️ Fun fact: I love snowboarding and I'm a geek for domotica.
+- 📱  I’m currently working as a Frontend developer.
+- 🤓  I’m currently learning more JavaScript.
+- 💬  Ask me about JS, Python, Django, databases and domotica.
+- 🚴🏽‍♀️  Fun fact: I love snowboarding and I'm a geek for domotica.
 
 ### :gear: Technologies which I'm familiar with:
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
