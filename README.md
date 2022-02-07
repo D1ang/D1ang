@@ -33,7 +33,7 @@ I’m a Full Stack developer with a focus on Python and JavaScript. In the past 
 :dove: [Twitter](https://twitter.com/https://twitter.com/Hey_Djang)
 
 #### Get to know me better :raising_hand: :
-:movie_camera: [YouTube](https://www.youtube.com/channel/UCjRCFNiNSblFq7TlSVw-gKw)
+:movie_camera: [YouTube](https://www.youtube.com/channel/UCjRCFNiNSblFq7TlSVw-gKw)<br>
 :rocket: [Portfolio](https://www.heydjang.com)
 
 <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=D1ang&show_icons=true&hide_border=true" />
