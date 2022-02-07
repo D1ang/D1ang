@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/D1ang/D1ang/blob/master/badge.png" alt="Illustration of Django" width=140px height=400px/>
+<img align="right" src="https://github.com/D1ang/D1ang/blob/master/badge.png" alt="Illustration of Django" width=376px height=400px/>
 
 ### Hi, my name is Django 👋
 
