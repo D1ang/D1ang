@@ -28,11 +28,11 @@ I’m a Full Stack developer with a focus on Python and JavaScript. In the past 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
-#### Ways to contact me :pager: :
+#### Ways to contact me :pager:
 :handshake: [LinkedIn](https://www.linkedin.com/in/django-heimgartner/)<br>
 :dove: [Twitter](https://twitter.com/https://twitter.com/Hey_Djang)
 
-#### Get to know me better :raising_hand: :
+#### Get to know me better :raising_hand:
 :movie_camera: [YouTube](https://www.youtube.com/channel/UCjRCFNiNSblFq7TlSVw-gKw)<br>
 :rocket: [Portfolio](https://www.heydjang.com)
 
