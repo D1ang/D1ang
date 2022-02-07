@@ -7,7 +7,7 @@ I’m a Full Stack developer with a focus on Python and JavaScript. In the past 
 - 📱  I’m currently working as a Frontend developer.
 - 🤓  I’m currently learning more JavaScript.
 - 💬  Ask me about JS, Python, Django and databases.
-- 🚴🏽‍♀️  I love snowboarding and I'm a geek for domotica.
+- :snowboarder:  I love snowboarding and I'm a geek for domotica.
 
 ### :gear: Technologies which I'm familiar with:
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
