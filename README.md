@@ -2,7 +2,7 @@
 
 ### Hi, my name is Django <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m a Full Stack developer with a focus on Python and JavaScript. In the past I was a medior FileMaker developer and created a scale of business apps for a Silkscreen based production company. As an alumnus from Code Institute and a 17 years career I switched to be a full time developer (since 2021)
+I’m a Full Stack developer with a focus on Python and JavaScript. In the past I was a medior FileMaker developer and created a scale of business apps for a Silkscreen based production company. As an alumnus from Code Institute and after a 17 years career I switched to be a full time developer (since 2021)
 
 - 📱  I’m currently working as a Frontend developer.
 - 🤓  I’m currently learning more JavaScript.
