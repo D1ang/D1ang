@@ -40,7 +40,7 @@ I’m a Full Stack developer with a focus on Python and JavaScript. In the past 
 
 #### Ways to contact me :pager:
 :handshake: [LinkedIn](https://www.linkedin.com/in/django-heimgartner/)<br>
-:dove: [Twitter](https://twitter.com/https://twitter.com/Hey_Djang)
+:dove: [Twitter](https://twitter.com/Hey_Djang)
 
 #### Get to know me better :raising_hand:
 :movie_camera: [YouTube](https://www.youtube.com/channel/UCjRCFNiNSblFq7TlSVw-gKw)<br>
