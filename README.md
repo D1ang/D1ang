@@ -38,7 +38,6 @@ I’m a Full Stack developer with a focus on Python. In the past I was a medior 
 
 #### Ways to contact me :pager:
 :handshake: [LinkedIn](https://www.linkedin.com/in/django-heimgartner/)<br>
-:dove: [Twitter](https://twitter.com/Hey_Djang)
 
 #### Get to know me better :raising_hand:
 :movie_camera: [YouTube](https://www.youtube.com/channel/UCjRCFNiNSblFq7TlSVw-gKw)<br>
