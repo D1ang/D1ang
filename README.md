@@ -4,7 +4,7 @@
 
 I’m a software developer with a focus on Python. In the past I was a medior FileMaker developer and created a scale of business apps for a Silkscreen based production company. After a 17 years career I switched to be a full time developer (since 2021)
 
-- 📱  I’m currently working as a Python/Devops developer.
+- 📱  I’m currently working as a Senior software developer.
 - 🤓  I’m currently learning more Python.
 - 💬  Ask me about Python, Django and databases.
 - :snowboarder:  I love snowboarding and I'm a geek for domotica.
